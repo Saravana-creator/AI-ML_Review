@@ -1,0 +1,10 @@
+{"id":"69060836b912d21d2e16cadf","timestamp":"2025-11-01T13:16:38.986Z","fileName":"fake_6.jpg","fileSize":10296,"result":"Fake","confidence":0.01160163152962923,"processingTime":94431,"ip":"::ffff:127.0.0.1"}
+{"id":"69060a86b912d21d2e16caf5","timestamp":"2025-11-01T13:26:30.833Z","fileName":"fake_46.jpg","fileSize":6507,"result":"Fake","confidence":0.05283305048942566,"processingTime":17009,"ip":"::ffff:127.0.0.1"}
+{"id":"69060aa9b912d21d2e16caf8","timestamp":"2025-11-01T13:27:05.986Z","fileName":"real_9.jpg","fileSize":10858,"result":"Real","confidence":0.9920302629470825,"processingTime":14921,"ip":"::ffff:127.0.0.1"}
+{"id":"69060acab912d21d2e16cafb","timestamp":"2025-11-01T13:27:38.405Z","fileName":"real_39.jpg","fileSize":4545,"result":"Real","confidence":0.8227967023849487,"processingTime":14224,"ip":"::ffff:127.0.0.1"}
+{"id":"69060ae6b912d21d2e16cafe","timestamp":"2025-11-01T13:28:06.957Z","fileName":"real_39.jpg","fileSize":4545,"result":"Real","confidence":0.8227967023849487,"processingTime":15939,"ip":"::ffff:127.0.0.1"}
+{"id":"69060af8b912d21d2e16cb01","timestamp":"2025-11-01T13:28:24.878Z","fileName":"real_37.jpg","fileSize":6666,"result":"Real","confidence":0.9511808753013611,"processingTime":14619,"ip":"::ffff:127.0.0.1"}
+{"id":"69060b13b912d21d2e16cb04","timestamp":"2025-11-01T13:28:51.873Z","fileName":"real_37.jpg","fileSize":6666,"result":"Real","confidence":0.9511808753013611,"processingTime":14696,"ip":"::ffff:127.0.0.1"}
+{"id":"69060b32b912d21d2e16cb07","timestamp":"2025-11-01T13:29:22.874Z","fileName":"real_26.jpg","fileSize":3856,"result":"Real","confidence":0.9264264106750488,"processingTime":14133,"ip":"::ffff:127.0.0.1"}
+{"id":"69115ef52c777917bb26694a","timestamp":"2025-11-10T03:41:41.477Z","fileName":"real_6.jpg","fileSize":9069,"result":"Real","confidence":0.9538043737411499,"processingTime":86099,"ip":"::ffff:127.0.0.1"}
+{"id":"6911620a2c777917bb266950","timestamp":"2025-11-10T03:54:50.098Z","fileName":"fake_34.jpg","fileSize":11268,"result":"Fake","confidence":0.001989475917071104,"processingTime":14235,"ip":"::ffff:127.0.0.1"}
